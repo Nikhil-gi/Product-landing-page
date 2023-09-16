@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Mochiy+Pop+P+One&family=Poppins:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+body{
+  background: black;
+  color: white;
+  font-family: 'poppins';
+  line-height: 1.2;
+  width: 500px;
+  margin: auto;
+}
+
+#title{
+  text-align: center;
+  color: red;
+}
+
+#description{
+  text-align: center;
+}
+form{
+  background: rgb(240, 100, 100, 0.2);
+  padding: 2.5rem;
+  border-radius: 2rem;
+  width: 500px;
+  margin: auto;
+}
+
+.submit-button {
+  width: 100%;
+  padding: 0.75rem;
+  background: red;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.input-headings{
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+.form-inputs{
+  display: block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.25rem 0.75rem;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
